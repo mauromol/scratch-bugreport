@@ -1,0 +1,7 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="keyword" value="\(c\)|©" />
+    <option name="notice" value="(c) ACME &amp;#36;today.year, all rights reserved" />
+    <option name="myName" value="acme-copyright" />
+  </copyright>
+</component>
